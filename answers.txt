@@ -1,2 +1,2 @@
 What is a remote repository?
-Versions of a project hosted on network or Internet
+Versions of a project hosted on internet on network 
